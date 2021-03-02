@@ -1,3 +1,15 @@
+#instructions
+-> clone the repo
+
+---running the server---
+-> go to src/data/ and run "json-server --watch .\data.json"
+
+---running the application--
+->run new terminal/CMD
+-> make sure npm is installed
+-> type "npm i" in root folder where package.json is located
+->type npm start to run the application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
